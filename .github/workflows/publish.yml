@@ -1,4 +1,4 @@
-name: Publish dashboard
+name: My first Publish dashboard
 
 on:
   workflow_dispatch:
